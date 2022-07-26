@@ -1,11 +1,15 @@
-<!--  tirar o comentario dps de pronto.
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmusse&layout=compact&langs_count=7&theme=dracula" align = "right"/>
--->
+<img src="https://giffiles.alphacoders.com/215/215738.gif" height = 250 align= "right"/>
+
 ###   Hi, welcome to my profile! 🐾
 
 ##
 
-### > I’m currently working on:
+- 🗺️Languages <img src=https://i.imgur.com/Yl3O1d3.png/>  <img src=https://i.imgur.com/w8ovntn.png/>  ( Learning: <img src= https://i.imgur.com/WUY978u.png/>) ;
+- <img src=https://i.imgur.com/Yl3O1d3.png/> Goiânia - GO ;
+- 🌱 I'm a beginner in the programming world ;
+- 📚 Currently learning : React ;
+
+### > Favorite tools:
  <div>
   <a href="https://github.com/rafaelmusse">
  <code><img align="center" alt="Js-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JavaScript"></code>
@@ -25,16 +29,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmusse&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
