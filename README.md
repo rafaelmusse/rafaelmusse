@@ -4,7 +4,7 @@
 
 ##
 
-- 🗺️Languages :  <img src=https://i.imgur.com/Yl3O1d3.png/>  <img src=https://i.imgur.com/w8ovntn.png/>  ( Learning: <img src= https://i.imgur.com/WUY978u.png/>) ;
+- 🗺️ Languages :  <img src=https://i.imgur.com/Yl3O1d3.png/>  <img src=https://i.imgur.com/w8ovntn.png/>  ( Learning: <img src= https://i.imgur.com/WUY978u.png/>) ;
 - <img src=https://i.imgur.com/Yl3O1d3.png/> Goiânia - GO ;
 - 🌱 Coding through life ;
 - 📚 "Aprender é a única coisa que a mente nunca esgota, nunca teme e nunca se arrepende."
